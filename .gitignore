@@ -1,0 +1,39 @@
+#Mac
+.DS_Store
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+*.mo
+db.sqlite3
+.env
+
+# Pycharm
+.idea
+
+# Cursor
+.cursorrules
+.cursor
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+*.cover
+/coverage
+
+# celery
+celerybeat-schedule.*
+celerybeat.pid
+
+# mypy
+.mypy_cache/
+
+
+# Visual Studio Code #
+.vscode
