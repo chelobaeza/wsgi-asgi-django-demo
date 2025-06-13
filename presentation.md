@@ -162,7 +162,7 @@ resuming sync - Running in thread: 11242
 
 ---
 
-## Bonus: Computation & Trade-offs
+## Bonus: Computation (CPU-bound)
 
 ### Computation Endpoints
 
